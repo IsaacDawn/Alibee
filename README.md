@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 🐝 Alibee
 
-## Get started
+**Swipe. Watch. Buy.**
 
-1. Install dependencies
+Alibee is a mobile-first shopping experience that brings the addictive, swipe-based UI of TikTok into the world of AliExpress product discovery.
 
-   ```bash
-   npm install
-   ```
+## 🚀 What is Alibee?
+Alibee is a React Native app (built with Expo) that displays AliExpress products using short videos, just like TikTok or Reels. Users can:
 
-2. Start the app
+- Swipe vertically to explore product videos
+- See price and free shipping info at a glance
+- Click "Buy Now" to be redirected to the affiliate product page
+- Like/favorite products
 
-   ```bash
-    npx expo start
-   ```
+## ✨ MVP Highlights
+- Minimal UI focused on fast product discovery
+- Only shows products that have videos
+- Expo + TypeScript powered
+- EAS (Expo Application Services) ready
 
-In the output, you'll find options to open the app in a
+## 📦 Tech Stack
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- TypeScript
+- Git + GitHub
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+## 🛠️ Installation
 ```bash
-npm run reset-project
+git clone https://github.com/IsaacDawn/Alibee.git
+cd Alibee
+npm install
+npm start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Open Expo Go on your mobile device and scan the QR code to try it live.
 
-## Learn more
+## 🧪 Roadmap Ideas
+- Personalized feed based on interactions
+- Social sharing of favorite finds
+- Weekly trending products
+- Product filters and search
 
-To learn more about developing your project with Expo, look at the following resources:
+## 👨‍💻 Author
+**Isaac Dawn**  
+[https://github.com/IsaacDawn](https://github.com/IsaacDawn)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+> Bee smart. Bee fast. Alibee 🐝
